@@ -1,69 +1,78 @@
-<h1 align="center">👋 Hi, I'm Thokozani Mahlangu</h1>
+# Hi, I'm Thokozani Mahlangu 👋
 
-<p align="center">
-🌍 South Africa &nbsp;•&nbsp;
-💡 Aspiring Software Developer &nbsp;•&nbsp;
-🚀 Learning Every Day
-</p>
+### Software Engineering | Full-Stack Development | Python • JavaScript • SQL
+
+I'm a South African software engineering practitioner focused on building practical web applications and solving real-world problems through technology.
+
+I developed my software engineering foundation through the **ALX Software Engineering programme**, where I applied fundamental concepts through hands-on projects covering programming, web development, databases, APIs, version control and software engineering practices.
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+* Python
+* JavaScript
+* PHP
+* C
+* SQL
+* HTML
+* CSS
+
+**Frameworks & Technologies**
+
+* Flask
+* Node.js
+* React
+* MySQL
+* SQLite
+* REST APIs
+* JSON
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+## 🚀 Featured Projects
+
+### JobzAllDay
+
+A job-focused web application designed to connect job seekers with opportunities through a practical web platform.
+
+**Focus:** Web Development • React • JavaScript
+
+### SHORTEE
+
+A portfolio project built using PHP, CSS and MySQL, demonstrating backend development, database integration and web application fundamentals.
+
+**Focus:** PHP • MySQL • HTML • CSS
+
+### ALX Software Engineering Projects
+
+A collection of projects completed throughout my ALX Software Engineering journey, covering programming fundamentals, algorithms, databases, backend development and web technologies.
+
+**Focus:** Python • JavaScript • C • SQL • Git
+
+## 🎯 Currently Focused On
+
+* Building practical full-stack applications
+* Strengthening Python and JavaScript development
+* Developing stronger backend and database skills
+* Improving software architecture and problem-solving
+* Building projects that solve real-world problems
+
+## 📚 Learning Philosophy
+
+I believe the best way to learn software engineering is to build.
+
+My repositories document that process — from foundational programming exercises to increasingly practical applications.
+
+## 🤝 Let's Connect
+
+* **GitHub:** [@ThokozaniLegend](https://github.com/ThokozaniLegend)
+* **LinkedIn:** Connect with me on LinkedIn
 
 ---
 
-## ✨ About Me
-
-I am at the beginning of my software development journey, focused on learning practical skills and building real projects step by step.
-
-This GitHub profile is my **learning diary** — every repository represents growth, effort, and improvement.
-
-I value:
-- 📌 Consistency over perfection  
-- 🧠 Learning by doing  
-- 🛠 Building useful solutions  
-
----
-
-## 🛠️ Tech Stack (Learning)
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-beginner-orange"/>
-<img src="https://img.shields.io/badge/CSS3-beginner-blue"/>
-<img src="https://img.shields.io/badge/JavaScript-beginner-yellow"/>
-<img src="https://img.shields.io/badge/Git-learning-black"/>
-</p>
-
----
-
-## 📂 What You’ll See Here
-
-✅ Practice projects  
-✅ Learning experiments  
-✅ Step-by-step improvement over time  
-
-This profile shows **progress**, not perfection.
-
----
-
-## 🎯 Current Focus
-
-- Web development fundamentals  
-- Building confidence through small projects  
-- Preparing for real-world tech opportunities  
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ThokozaniLegend&show_icons=true&theme=default"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 🌐 GitHub: https://github.com/ThokozaniLegend  
-- 💼 LinkedIn: Available on my LinkedIn profile  
-
----
-
-⭐ Thanks for visiting  
-⭐ Follow my journey as I grow in tech
+⭐ Thanks for visiting my profile.
